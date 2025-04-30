@@ -10,7 +10,7 @@ On my GitHub, you’ll find repositories related to:
 - **Embedded Systems** - Exploring microcontrollers and real-time systems
 - **Digital Signal Processing (DSP)** - MATLAB-based and C-based signal processing projects
 - **Matlab & Scientific Computing** - Simulations, modeling, and data analysis
-- **HDL - ASICS and FPGA with Verilog
+- **HDL** - ASICS and FPGA with Verilog
 
 ### 📚 Education & Research
 🎓 **Kwame Nkrumah University of Science and Technology** - BSc in Computer Engineering *(2020 - 2024)*  

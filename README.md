@@ -1,4 +1,4 @@
-# Hi there! I'm Gideon Adjei
+# Hi there!
 
 ### 👨‍💻 About Me
 I'm passionate about **low-level programming, embedded systems, and operating systems**. I love working with **C, C++, and Python**, diving deep into the world of **systems programming, digital signal processing (DSP), and algorithm optimization**.

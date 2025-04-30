@@ -33,7 +33,7 @@ On my GitHub, you’ll find repositories related to:
 - **Email:** [gideonadjei450@gmail.com](mailto:gideonadjei450@gmail.com)
 - **LinkedIn:** [linkedin.com/in/gdnadjei](https://linkedin.com/in/gdnadjei)
 - **GitHub:** [github.com/k-ojo](https://github.com/k-ojo)
-- **YouTube:** [youtube.com/k-ojo]([https](http://www.youtube.com/@GaviviTeaches))
+- **YouTube:** [youtube.com/k-ojo]((http://www.youtube.com/@GaviviTeaches))
 
 💡 *Always excited to collaborate on low-level systems, OS development, and embedded projects!*
 

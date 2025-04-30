@@ -1,7 +1,7 @@
 # Hi there!
 
 ### 👨‍💻 About Me
-I'm passionate about **low-level programming, embedded systems, and operating systems**. I love working with **C, C++, and Python**, diving deep into the world of **systems programming, digital system design, and emdedded systems**.
+I'm passionate about **computers and how the work**. I love working with **C, C++, and Python**, diving deep into the world of **systems programming, digital system design, and emdedded systems**.
 
 ### 🚀 What You'll Find Here
 On my GitHub, you’ll find repositories related to:

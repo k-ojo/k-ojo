@@ -16,7 +16,7 @@ On my GitHub, you’ll find repositories related to:
 🎓 **Kwame Nkrumah University of Science and Technology** - BSc in Computer Engineering *(2020 - 2024)*  
 - **Key Coursework:** Operating Systems, Embedded Systems, Data Structures & Algorithms, DSP  
 
-🔬 **Research:** *Homomorphic Encryption in Cloud-Based Healthcare Systems* (Aug 2024)  
+🔬 **Research:** *Review of Homomorphic Encryption in Cloud-Based Healthcare Systems* (Aug 2024)  
 - Explored encryption techniques like FHE and BFV for secure healthcare data processing.
 
 ### 💻 Tech Stack

@@ -10,6 +10,7 @@ On my GitHub, you’ll find repositories related to:
 - **Embedded Systems** - Exploring microcontrollers and real-time systems
 - **Digital Signal Processing (DSP)** - MATLAB-based and C-based signal processing projects
 - **Matlab & Scientific Computing** - Simulations, modeling, and data analysis
+- **HDL - ASICS and FPGA with Verilog
 
 ### 📚 Education & Research
 🎓 **Kwame Nkrumah University of Science and Technology** - BSc in Computer Engineering *(2020 - 2024)*  
@@ -19,9 +20,9 @@ On my GitHub, you’ll find repositories related to:
 - Explored encryption techniques like FHE and BFV for secure healthcare data processing.
 
 ### 💻 Tech Stack
-- **Languages:** C, C++, Python, JavaScript, LaTeX  
-- **Frameworks & Libraries:** GLFW, glad, GLM  
-- **Tools & Platforms:** MATLAB, VS Code, Kathara, Docker, Overleaf, Linux, WSL  
+- **Languages:** C, C++, Python, LaTeX  
+- **Frameworks & Libraries:** GLFW, glad, GLM, sockets, pthreads 
+- **Tools & Platforms:** Verilog, Eagle, Proteus, MATLAB, VS Code, Kathara, Docker, Overleaf, Linux, WSL  
 
 ### 🌟 Notable Projects
 - **Custom Shell** *(C, Assembly)* - Developed a UNIX-style shell supporting multiple commands.
@@ -32,6 +33,7 @@ On my GitHub, you’ll find repositories related to:
 - **Email:** [gideonadjei450@gmail.com](mailto:gideonadjei450@gmail.com)
 - **LinkedIn:** [linkedin.com/in/gdnadjei](https://linkedin.com/in/gdnadjei)
 - **GitHub:** [github.com/k-ojo](https://github.com/k-ojo)
+- **YouTube:** [youtube.com/k-ojo]([https](http://www.youtube.com/@GaviviTeaches))
 
 💡 *Always excited to collaborate on low-level systems, OS development, and embedded projects!*
 

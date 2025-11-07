@@ -1,39 +1,73 @@
-# Hi there!
+<h1 align="center">Hi, I'm Gideon Adjei 👋</h1>
+
+<p align="center">
+  <b>Systems Programming • Embedded Systems • Computer Architecture • Quantum Computing</b>
+</p>
+
+---
 
 ### 👨‍💻 About Me
-I'm passionate about **computers and how they work**. I love working with **C, C++, Verilog, and Python**, diving deep into the world of **systems programming, digital system design, and emdedded systems**.
+I’m passionate about how computers work at the lowest levels—from digital logic and embedded systems to operating system internals. I enjoy building systems from scratch and understanding every layer between hardware and software.
 
-### 🚀 What You'll Find Here
-On my GitHub, you’ll find repositories related to:
-- **Operating Systems (OS)** - Custom shell implementations, low-level OS components
-- **Data Structures & Algorithms (DSA)** - Algorithm tutorials and problem-solving
-- **Embedded Systems** - Exploring microcontrollers and real-time systems
-- **Digital Signal Processing (DSP)** - MATLAB-based and C-based signal processing projects
-- **Matlab & Scientific Computing** - Simulations, modeling, and data analysis
-- **HDL** - ASICS and FPGA with Verilog
+---
 
-### 📚 Education & Research
-🎓 **Kwame Nkrumah University of Science and Technology** - BSc in Computer Engineering *(2020 - 2024)*  
-- **Key Coursework:** Operating Systems, Embedded Systems, Data Structures & Algorithms, DSP  
+### 🧰 Technical Focus
+- **Systems Programming:** C, C++, POSIX, sockets, pthreads  
+- **Digital & Embedded:** Verilog, STM32, RTOS fundamentals  
+- **Computer Graphics & Scientific Computing:** OpenGL (GLFW, GLAD, GLM), MATLAB  
+- **Tools:** Linux, WSL, VS Code, Docker, Overleaf  
 
-🔬 **Research:** *Review of Homomorphic Encryption in Cloud-Based Healthcare Systems* (Aug 2024)  
-- Explored encryption techniques like FHE and BFV for secure healthcare data processing.
+---
 
-### 💻 Tech Stack
-- **Languages:** C, C++, Python, LaTeX  
-- **Frameworks & Libraries:** GLFW, glad, GLM, sockets, pthreads 
-- **Tools & Platforms:** Verilog, Eagle, Proteus, MATLAB, VS Code, Kathara, Docker, Overleaf, Linux, WSL  
+### 🚀 What I Work On
+- Operating systems and shell internals  
+- Data structures and algorithms in C  
+- FPGA/ASIC logic design and simulation  
+- DSP algorithms using C and MATLAB  
 
-### 🌟 Notable Projects
-- **Custom Shell** *(C, Assembly)* - Developed a UNIX-style shell supporting multiple commands.
-- **Bank Ticketing System** *(Python, Tkinter)* - Reduced customer wait times by 70%.
-- **DSA Tutorial** *(C)* - Helped beginners understand foundational data structures.
+---
 
-### 📫 Connect with Me
-- **Email:** [gideonadjei450@gmail.com](mailto:gideonadjei450@gmail.com)
-- **LinkedIn:** [linkedin.com/in/gdnadjei](https://linkedin.com/in/gdnadjei)
-- **GitHub:** [github.com/k-ojo](https://github.com/k-ojo)
-- **YouTube:** [youtube.com/k-ojo](http://www.youtube.com/@GaviviTeaches)
+### 🎓 Education & Research
+**BSc Computer Engineering** — *Kwame Nkrumah University of Science and Technology (2020–2024)*  
+**Research:** *Homomorphic Encryption in Cloud-Based Healthcare Systems* (2024)
 
-💡 *Always excited to collaborate on low-level systems, OS development, and embedded projects!*
+---
 
+### 🌟 Highlighted Projects
+| Project | Description | Tech |
+|--------|-------------|------|
+| **Pilos** | bootloader, vga driver, protected mode | C, x86 Assembly, armv7 |
+| **Custom UNIX-Style Shell** | Shell with pipelines, built-ins, and process control | C |
+| **Bank Queue System** | Reduced wait times using real-time queue logic | Python (Tkinter) |
+| **DSA Learning Series** | Clear implementations of fundamental data structures | C |
+| **FPGA/ASIC Logic Modules** | Synchronous datapath & control circuits | Verilog |
+| **Multivibrator with 555 timer PCB Design** | Though hole technology, IC, SMT | KiCAD |
+
+
+---
+
+### 📫 Connect With Me
+
+<p align="center">
+
+<a href="mailto:gideonadjei450@gmail.com">
+  <img src="https://img.shields.io/badge/Email-000000?style=flat&logo=gmail&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://linkedin.com/in/gdnadjei">
+  <img src="https://img.shields.io/badge/LinkedIn-000000?style=flat&logo=linkedin&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://github.com/k-ojo">
+  <img src="https://img.shields.io/badge/GitHub-000000?style=flat&logo=github&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://www.youtube.com/@GaviviTeaches">
+  <img src="https://img.shields.io/badge/YouTube-000000?style=flat&logo=youtube&logoColor=white" />
+</a>
+
+</p>
+
+---
+
+<p align="center"><i>Open to collaboration in OS development, embedded systems, and digital hardware design.</i></p>
